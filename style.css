@@ -15,9 +15,11 @@ header { background-color: #8bf1e0;
         table { width: 100%; border-collapse: collapse; margin: 1em 0; } 
         table, th, td { border: 1px solid #ddd; } 
         th, td { padding: 1em; text-align: left; } 
-        th { background-color: #f2f2f2; } 
+        th { background-color: #3446eb; } 
         .galeria { display: flex; gap: 10px; flex-wrap: wrap; }
          .galeria img { flex: 1 1 calc(25% - 10px); box-sizing: border-box; }
-          footer { background-color: #333; color: white; text-align: center; padding: 1em 0; } 
-          a { color: #4CAF50; }
+          footer { background-color: #333; color: rgb(95, 150, 223); 
+            text-align: center; 
+            padding: 1em 0; } 
+          a { color: #4758f3; }
          a:hover { text-decoration: underline; }
