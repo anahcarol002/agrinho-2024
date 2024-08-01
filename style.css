@@ -13,7 +13,7 @@ header { background-color: #8bf1e0;
         h2 { color: #111111; } 
         img { max-width: 100%; height: auto; }
         table { width: 100%; border-collapse: collapse; margin: 1em 0; } 
-        table, th, td { border: 1px solid #ddd; } 
+        table, th, td { border: 1px solid #35887d; } 
         th, td { padding: 1em; text-align: left; } 
         th { background-color: #3446eb; } 
         .galeria { display: flex; gap: 10px; flex-wrap: wrap; }
