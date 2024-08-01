@@ -1,13 +1,16 @@
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } 
-header { background-color: #4CAF50; 
-    color: white;
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #6380df; } 
+header { background-color: #8bf1e0; 
+    color: rgb(13, 64, 173);
      padding: 1em 0; 
      text-align: center; }
       nav ul { list-style: none; 
-        padding: 0; } nav ul li { display: inline; margin: 0 10px; } 
-        nav ul li a { color: white; text-decoration: none; } 
+        padding: 0; } 
+        nav ul li { display: inline;
+           margin: 0 10px; } 
+        nav ul li a { color: white;
+           text-decoration: none; } 
         main { padding: 2em; } section { margin-bottom: 2em; } 
-        h2 { color: #4CAF50; } 
+        h2 { color: #111111; } 
         img { max-width: 100%; height: auto; }
         table { width: 100%; border-collapse: collapse; margin: 1em 0; } 
         table, th, td { border: 1px solid #ddd; } 
